@@ -1,16 +1,16 @@
-// import DigitalClock from "./DigitalClock"
-// import ComponentA from "./ComponentA";
+// THIS IS A JUST A SAMPLE FOR UseContext
+// THIS IS A JUST A SAMPLE FOR UseContext
+// THIS IS A JUST A SAMPLE FOR UseContext
 
-import MyComponent from "./MyComponent";
-import StopWatch from "./StopWatch.jsx";
+import ComponentA from "./ComponentA.jsx";
+// import MyComponent from "./MyComponent";
+
 
 function App() {
   return (
-    <StopWatch/>
+      <ComponentA />
     // <MyComponent />
-    // <ComponentA />
-
-    // <DigitalClock/>
+  
   );
 }
 
